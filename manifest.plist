@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict> 
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cdn.discordapp.com/attachments/1261857156093968474/1264310079767707770/Surge-iOS.ipa?ex=669d6804&is=669c1684&hm=ebb4a2d370689b8567020de9268d4973f9eece19110dee8035aa4e316f7fa75c&</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.nssurge.inc.surge-ios</string>
+				<key>bundle-version</key>
+				<string>5.8.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Surge</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
